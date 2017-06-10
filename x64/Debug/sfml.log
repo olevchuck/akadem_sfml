@@ -1,0 +1,27 @@
+﻿  main.cpp
+d:\project\sfml\view.h(14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\project\sfml\view.h(25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\project\sfml\view.h(29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\project\sfml\view.h(33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\project\sfml\view.h(36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\project\sfml\cat.h(28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\project\sfml\cat.h(29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\project\sfml\cat.h(40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\project\sfml\cat.h(138): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\project\sfml\cat.h(138): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\project\sfml\cat.h(142): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\project\sfml\cat.h(166): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\project\sfml\cat.h(167): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\project\sfml\cat.h(173): warning C4244: 'argument': conversion from 'float' to 'unsigned __int64', possible loss of data
+d:\project\sfml\cat.h(175): warning C4244: 'argument': conversion from 'float' to 'unsigned __int64', possible loss of data
+d:\project\sfml\cat.h(179): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\project\sfml\cat.h(180): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\project\sfml\cat.h(191): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\project\sfml\cat.h(200): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\project\sfml\cat.h(217): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\project\sfml\cat.h(229): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\project\sfml\game.h(11): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\project\sfml\game.h(38): warning C4244: 'initializing': conversion from 'sf::Int64' to 'float', possible loss of data
+d:\project\sfml\game.h(64): warning C4715: 'startGame': not all control paths return a value
+  sfml.vcxproj -> D:\project\sfml\x64\Debug\sfml.exe
+  sfml.vcxproj -> D:\project\sfml\x64\Debug\sfml.pdb (Partial PDB)
